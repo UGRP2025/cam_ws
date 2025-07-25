@@ -1,0 +1,57 @@
+[0.039s] Invoking command in '/home/ugrp2025/cam_ws/build/yolo_bringup': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_bringup -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_bringup
+[0.310s] -- The C compiler identification is GNU 9.4.0
+[0.507s] -- The CXX compiler identification is GNU 9.4.0
+[0.516s] -- Check for working C compiler: /usr/bin/cc
+[0.764s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.765s] -- Detecting C compiler ABI info
+[1.016s] -- Detecting C compiler ABI info - done
+[1.038s] -- Detecting C compile features
+[1.039s] -- Detecting C compile features - done
+[1.044s] -- Check for working CXX compiler: /usr/bin/c++
+[1.300s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.302s] -- Detecting CXX compiler ABI info
+[1.557s] -- Detecting CXX compiler ABI info - done
+[1.578s] -- Detecting CXX compile features
+[1.578s] -- Detecting CXX compile features - done
+[1.583s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.739s] -- Found PythonInterp: /home/ugrp2025/.pyenv/shims/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.739s] -- Using PYTHON_EXECUTABLE: /home/ugrp2025/.pyenv/shims/python3
+[2.572s] -- Configuring done
+[2.576s] -- Generating done
+[2.577s] CMake Warning:
+[2.578s]   Manually-specified variables were not used by the project:
+[2.578s] 
+[2.578s]     USE_LIFECYCLE_NODE
+[2.578s] 
+[2.579s] 
+[2.580s] -- Build files have been written to: /home/ugrp2025/cam_ws/build/yolo_bringup
+[2.595s] Invoked command in '/home/ugrp2025/cam_ws/build/yolo_bringup' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_bringup -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_bringup
+[2.605s] Invoking command in '/home/ugrp2025/cam_ws/build/yolo_bringup': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/yolo_bringup -- -j6 -l6
+[2.716s] Invoked command in '/home/ugrp2025/cam_ws/build/yolo_bringup' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/yolo_bringup -- -j6 -l6
+[2.727s] Invoking command in '/home/ugrp2025/cam_ws/build/yolo_bringup': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/yolo_bringup
+[2.753s] -- Install configuration: ""
+[2.754s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch
+[2.754s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov10.launch.py
+[2.754s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov12.launch.py
+[2.755s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolo-world.launch.py
+[2.755s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolo.launch.py
+[2.755s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov8.launch.py
+[2.756s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov11.launch.py
+[2.756s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov5.launch.py
+[2.756s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup//launch/yolov9.launch.py
+[2.757s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/ament_index/resource_index/package_run_dependencies/yolo_bringup
+[2.757s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/ament_index/resource_index/parent_prefix_path/yolo_bringup
+[2.757s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/environment/ament_prefix_path.sh
+[2.757s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/environment/ament_prefix_path.dsv
+[2.758s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/environment/path.sh
+[2.758s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/environment/path.dsv
+[2.758s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/local_setup.bash
+[2.761s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/local_setup.sh
+[2.761s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/local_setup.zsh
+[2.761s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/local_setup.dsv
+[2.761s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/package.dsv
+[2.762s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/ament_index/resource_index/packages/yolo_bringup
+[2.762s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/cmake/yolo_bringupConfig.cmake
+[2.762s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/cmake/yolo_bringupConfig-version.cmake
+[2.762s] -- Installing: /home/ugrp2025/cam_ws/install/yolo_bringup/share/yolo_bringup/package.xml
+[2.769s] Invoked command in '/home/ugrp2025/cam_ws/build/yolo_bringup' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_ros:/home/ugrp2025/cam_ws/install/yolo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/yolo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/yolo_ros/lib/python3.8/site-packages:/home/ugrp2025/cam_ws/install/yolo_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/yolo_bringup

@@ -1,0 +1,80 @@
+[0.117s] Invoking command in '/home/ugrp2025/cam_ws/build/realsense2_description': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ugrp2025/cam_ws/src/realsense-ros/realsense2_description -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/realsense2_description
+[0.522s] -- The C compiler identification is GNU 9.4.0
+[0.895s] -- The CXX compiler identification is GNU 9.4.0
+[0.913s] -- Check for working C compiler: /usr/bin/cc
+[1.214s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.217s] -- Detecting C compiler ABI info
+[1.436s] -- Detecting C compiler ABI info - done
+[1.470s] -- Detecting C compile features
+[1.471s] -- Detecting C compile features - done
+[1.476s] -- Check for working CXX compiler: /usr/bin/c++
+[1.742s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.743s] -- Detecting CXX compiler ABI info
+[2.014s] -- Detecting CXX compiler ABI info - done
+[2.047s] -- Detecting CXX compile features
+[2.048s] -- Detecting CXX compile features - done
+[2.054s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.225s] -- Found PythonInterp: /home/ugrp2025/.pyenv/shims/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.225s] -- Using PYTHON_EXECUTABLE: /home/ugrp2025/.pyenv/shims/python3
+[3.105s] -- Configuring done
+[3.109s] -- Generating done
+[3.110s] CMake Warning:
+[3.111s]   Manually-specified variables were not used by the project:
+[3.111s] 
+[3.111s]     USE_LIFECYCLE_NODE
+[3.111s] 
+[3.112s] 
+[3.113s] -- Build files have been written to: /home/ugrp2025/cam_ws/build/realsense2_description
+[3.134s] Invoked command in '/home/ugrp2025/cam_ws/build/realsense2_description' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ugrp2025/cam_ws/src/realsense-ros/realsense2_description -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/realsense2_description
+[3.137s] Invoking command in '/home/ugrp2025/cam_ws/build/realsense2_description': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/realsense2_description -- -j6 -l6
+[3.256s] Invoked command in '/home/ugrp2025/cam_ws/build/realsense2_description' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/realsense2_description -- -j6 -l6
+[3.258s] Invoking command in '/home/ugrp2025/cam_ws/build/realsense2_description': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/realsense2_description
+[3.280s] -- Install configuration: ""
+[3.281s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/launch
+[3.281s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/launch/launch_utils.py
+[3.316s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/launch/view_model.launch.py
+[3.317s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes
+[3.317s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/plug.stl
+[3.322s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/d455.stl
+[3.353s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/d415.stl
+[3.549s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/plug_collision.stl
+[3.691s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/d435.dae
+[3.935s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/d405.stl
+[3.938s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/meshes/l515.dae
+[4.315s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/rviz
+[4.316s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/rviz/urdf.rviz
+[4.316s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf
+[4.316s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d435i.urdf.xacro
+[4.316s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435i_camera.urdf.xacro
+[4.317s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_r410_camera.urdf.xacro
+[4.317s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d415.urdf.xacro
+[4.318s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_materials.urdf.xacro
+[4.319s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d435.urdf.xacro
+[4.319s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435_multiple_cameras.urdf.xacro
+[4.320s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d405.urdf.xacro
+[4.321s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_usb_plug.urdf.xacro
+[4.321s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_r410.urdf.xacro
+[4.322s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_r430.urdf.xacro
+[4.322s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d435i_imu_modules.urdf.xacro
+[4.323s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d405_camera.urdf.xacro
+[4.324s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d415_camera.urdf.xacro
+[4.324s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d435_camera.urdf.xacro
+[4.325s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_d455_camera.urdf.xacro
+[4.325s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/test_r430_camera.urdf.xacro
+[4.326s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/urdf/_d455.urdf.xacro
+[4.327s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/ament_index/resource_index/package_run_dependencies/realsense2_description
+[4.327s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/ament_index/resource_index/parent_prefix_path/realsense2_description
+[4.328s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/environment/ament_prefix_path.sh
+[4.328s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/environment/ament_prefix_path.dsv
+[4.329s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/environment/path.sh
+[4.329s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/environment/path.dsv
+[4.329s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/local_setup.bash
+[4.330s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/local_setup.sh
+[4.330s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/local_setup.zsh
+[4.330s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/local_setup.dsv
+[4.331s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/package.dsv
+[4.331s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/ament_index/resource_index/packages/realsense2_description
+[4.332s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig.cmake
+[4.332s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig-version.cmake
+[4.332s] -- Installing: /home/ugrp2025/cam_ws/install/realsense2_description/share/realsense2_description/package.xml
+[4.344s] Invoked command in '/home/ugrp2025/cam_ws/build/realsense2_description' returned '0': AMENT_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/realsense2_description

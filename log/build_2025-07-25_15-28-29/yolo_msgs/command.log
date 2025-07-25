@@ -1,0 +1,2 @@
+Invoking command in '/home/ugrp2025/cam_ws/build/yolo_msgs': /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_msgs
+Invoked command in '/home/ugrp2025/cam_ws/build/yolo_msgs' returned '1': /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_msgs

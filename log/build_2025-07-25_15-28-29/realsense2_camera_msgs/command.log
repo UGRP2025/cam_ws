@@ -1,0 +1,2 @@
+Invoking command in '/home/ugrp2025/cam_ws/build/realsense2_camera_msgs': /usr/bin/cmake /home/ugrp2025/cam_ws/src/realsense-ros/realsense2_camera_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs
+Invoked command in '/home/ugrp2025/cam_ws/build/realsense2_camera_msgs' returned '1': /usr/bin/cmake /home/ugrp2025/cam_ws/src/realsense-ros/realsense2_camera_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/realsense2_camera_msgs

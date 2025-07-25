@@ -1,0 +1,6 @@
+Invoking command in '/home/ugrp2025/cam_ws/build/yolo_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_msgs
+Invoked command in '/home/ugrp2025/cam_ws/build/yolo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ugrp2025/cam_ws/src/yolo_ros/yolo_msgs -DUSE_LIFECYCLE_NODE=ON -DCMAKE_INSTALL_PREFIX=/home/ugrp2025/cam_ws/install/yolo_msgs
+Invoking command in '/home/ugrp2025/cam_ws/build/yolo_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/yolo_msgs -- -j6 -l6
+Invoked command in '/home/ugrp2025/cam_ws/build/yolo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ugrp2025/cam_ws/build/yolo_msgs -- -j6 -l6
+Invoking command in '/home/ugrp2025/cam_ws/build/yolo_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/yolo_msgs
+Invoked command in '/home/ugrp2025/cam_ws/build/yolo_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ugrp2025/cam_ws/build/yolo_msgs
