@@ -131,7 +131,7 @@ class Yolov8Node(Node) :
             inference_msg.yolov8_inference.append(inference_result)
 
         inference_msg.header = msg.header
-        self.img_pub.publish(self.cv_bridge.cv2_to_imgmsg(img))
+        self.img_pub.publish(self.cv_bridge.cv2_to_imgmsg(img, "bgr8"))
         self.pub.publish(inference_msg)
 
 def main() :
